@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+env/
+
+# Python files
+__pycache__/
+*.pyc
+
+# Notebook data
+.ipynb_checkpoints
+
+# Data files (often large)
+*.csv
+*.parquet
+*.feather
+
+# Database
+*.db
